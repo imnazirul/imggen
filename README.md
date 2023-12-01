@@ -1,1 +1,1 @@
-# imggen
+Random Image Generator
